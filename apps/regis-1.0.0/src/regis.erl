@@ -13,7 +13,7 @@
 -export([start/2, stop/1]).
 -export([register/2, unregister/1, whereis/1, get_names/0]).
 
-
+%% returns {ok, Pid}
 start(normal, []) ->
     regis_sup:start_link().
 
