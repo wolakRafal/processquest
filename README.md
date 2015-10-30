@@ -1,2 +1,3 @@
 # processquest
-Erlang implementation of Progress Qest Game
+Erlang implementation of Progress Quest Game for educational purposes. 
+
